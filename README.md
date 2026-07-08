@@ -1,5 +1,5 @@
 # Zvenira
-#### -Chess pairing software
+> Chess pairing software
 
 ---
 
